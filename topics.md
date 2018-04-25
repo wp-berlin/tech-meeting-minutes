@@ -14,9 +14,11 @@ List of ideas to talk about or to hack on.
 - [ ] WordPress hosting (not only one specific hoster)
 - [ ] Dynamic image resizing
 - [ ] Fluid interfaces
-- [ ] [Mental health](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
+- [ ] Mental health
+- [ ] [Maintaining open source projects](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/)
 - [ ] [Semantic versioning](https://alexandergoller.com/semantic-versioning-wordpress-userland/)
 - [ ] Machine learning (to moderate comments)
 - [ ] SVN
 - [ ] Plugin compatibility (PHP, WordPress, Gutenberg)
 - [ ] Contributor day with a specific topic
+- [ ] [WP-CLI](https://wp-cli.org/) and packages
