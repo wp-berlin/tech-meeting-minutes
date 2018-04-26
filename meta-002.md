@@ -79,7 +79,7 @@ On the second meta meetup, we introduced Git and GitHub to the meta team and sch
 
 * _All things WordPress_ episode on [PHP Roundtable Podcast](https://www.phproundtable.com/) with [Ryan Welcher](https://twitter.com/ryanwelcher) and [David Hayes](https://twitter.com/davidbhayes)
 
-### First public meetup: Monday 8th of May 2018
+### First public meetup: Tuesday, May 8th 2018
 > moz://a Community Space Berlin, 
 > Schlesische Straße 27 (building 3, 3rd floor), 
 > 10997 Berlin
