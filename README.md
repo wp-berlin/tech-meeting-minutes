@@ -2,7 +2,7 @@
 
 Welcome to our public repository where we keep notes on our meetups.
 
-You can also find all notes on our website (coming soon).
+You can also find all notes on our [website](https://tech.wpmeetup-berlin.de/meeting-minutes/).
 
 ## Contributing
 
