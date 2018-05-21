@@ -29,7 +29,7 @@ On the second meta meetup, we introduced Git and GitHub to the meta team and sch
 
 #### Ideas
 
-* Allow voting on available [topics](https://github.com/wp-berlin/tech-meeting-minutes/blob/master/topics.md)
+* Allow voting on available [topics](https://tech.wpmeetup-berlin.de/contribute/#speaking)
 
 ### Locations
 
@@ -45,7 +45,7 @@ On the second meta meetup, we introduced Git and GitHub to the meta team and sch
 
 #### Content
 
-* See [topics.md](https://github.com/wp-berlin/tech-meeting-minutes/blob/master/topics.md)
+* See [Speaking](https://tech.wpmeetup-berlin.de/contribute/#speaking)
 
 ## Git & GitHub
 
