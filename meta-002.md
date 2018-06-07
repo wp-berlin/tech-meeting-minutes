@@ -1,3 +1,10 @@
+<!--
+Title:           Meta: Git & GitHub Workflow
+Description:     Mastering our Git and GitHub workflow; working with our repositories, handling issues and how to make use of GitHub features.
+Date:            2018-04-16T19:00
+Location:        Mozilla Berlin
+Location-Search: https://www.openstreetmap.org/node/4996803917
+-->
 # Meta Meetup 002 - 16.04.18
 
 Hosted by: moz://a Community Space Berlin
@@ -77,7 +84,7 @@ On the second meta meetup, we introduced Git and GitHub to the meta team and sch
 
 ### Further reading
 
-* _All things WordPress_ episode on [PHP Roundtable Podcast](https://www.phproundtable.com/) with [Ryan Welcher](https://twitter.com/ryanwelcher) and [David Hayes](https://twitter.com/davidbhayes)
+* _All things WordPress_ episode on [PHP Roundtable Podcast](https://www.phproundtable.com/episode/all-things-wordpress) with [Ryan Welcher](https://twitter.com/ryanwelcher) and [David Hayes](https://twitter.com/davidbhayes)
 
 ### First public meetup: Tuesday, May 8th 2018
 > moz://a Community Space Berlin, 

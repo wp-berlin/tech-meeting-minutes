@@ -1,3 +1,10 @@
+<!--
+Title:           Meta: Getting started
+Description:     Outlining the basics to get the meetup started; discussion on communication, topics, locations, hosting and other requirements.
+Date:            2018-04-10T19:00
+Location:        Mozilla Berlin
+Location-Search: https://www.openstreetmap.org/node/4996803917
+-->
 # Meta Meetup 001 - 10.04.18
 
 Hosted by: moz://a Community Space Berlin
@@ -82,12 +89,6 @@ Hello, and welcome to our very first meta meetup. We are about to start a topic-
 * Attract more WordPress developers
 * Find new locations
 * Gather interesting topics to talk about
-
-### Open tasks
-
-* Setup Slack channel: [@alpipego](https://github.com/alpipego)
-* Collect email addresses: [@berlindave](https://github.com/berlindave)
-* Publish meetup notes: [@hofmannsven](https://github.com/hofmannsven)
 
 ### Next meetup: Monday 16th of April 2018
 > moz://a Community Space Berlin, 
