@@ -5,7 +5,8 @@ Date:            2018-04-16T19:00
 Location:        Mozilla Berlin
 Location-Search: https://www.openstreetmap.org/node/4996803917
 -->
-# Meta Meetup 002 - 16.04.18
+
+# Meta Meetup 002 &ndash; 16.04.18
 
 Hosted by: moz://a Community Space Berlin
 
